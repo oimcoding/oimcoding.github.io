@@ -9,3 +9,5 @@ Canvas Link: [Granted access is needed for visiting this site](https://seattleu.
 **Lecture 3: Cryptography**
 
 > Understand several methods of symmetric key cryptography, public key (asymmetric) key cryptography on a high (math-free) level. Focus on the pros & cons of each method. (ex. Why this mechanism is brute-force free? Why we won't adapt this brute-force free approach?)
+
+Elliptic Curve (One of the asymmetric key approaches) was explained at the end of the lecture, which I missed most of it. Let's write some notes about Elliptic Curve first.
