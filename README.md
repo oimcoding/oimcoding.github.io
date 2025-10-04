@@ -1,11 +1,43 @@
-
 ### **SU-CPSC 5710 25FQ Notes**
 
 Canvas Link: [Granted access is needed for visiting this site](https://seattleu.instructure.com/courses/1623416)
 
 ![Person holding a humorous IT sticker outdoors, perfect for tech enthusiasts.](https://images.pexels.com/photos/11035465/pexels-photo-11035465.jpeg)
 
-***
+**Exercise 1: Access Control**
+
+*   Task:
+    
+*   Cheatsheet:
+    
+    \*_linux access control_\*
+    
+    \*_find your default permissions with umask_\*
+    
+    umask output: 022 | maximum in octal(8): 777 
+    
+    default permissions: 777-22  = 755
+    
+    755 in binary representation: 111 101 101
+    
+    755 in symbolic notation: rwx r-x r-x
+    
+    \*_Commands:_\*
+    
+    *   chmod: change user/group/others access of file/folder
+        
+    *   \- chomd new\_octal\_notation file/folder\_name
+        
+    *   \- chomd u/g/o + r/w/x file/folder\_name
+        
+    *   chgrp: change file/folder ownership to new group (chgrp new\_group file/folder)
+        
+    *   chown: change group ownership to new user (chown new\_user group)
+        
+    *   whoami: current user(name)
+        
+    *   groups: all groups which I belong
+        
 
 **Lecture 3: Cryptography**
 
