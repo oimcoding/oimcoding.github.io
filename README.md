@@ -16,6 +16,12 @@ In **public-key (asymmetric) cryptography**, a secret key isn't shared. Instead,
 
 RSA
 
+Diffie-Hellman (not mentioned in the lecutre)
+
 Elliptic Curve
 
 [![Elliptic Curves - Computerphile](https://i.ytimg.com/vi/NF1pwjL9-DE/hqdefault.jpg)](https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PLzH6n4zXuckpoaxDKOOV26yhgoY2S-xYg&index=4)
+
+*   _Why is Elliptic Curve secure (Brute-force free)?_
+    
+*   _Why is Elliptic Curve efficient?_
