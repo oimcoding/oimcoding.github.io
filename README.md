@@ -8,11 +8,24 @@ Canvas Link: [Granted access is needed for visiting this site](https://seattleu.
 
 **Lecture 3: Cryptography**
 
-> Understand several methods of symmetric key cryptography, public key (asymmetric) key cryptography on a high (math-free) level. Focus on the pros & cons of each method. (ex. Why this mechanism is brute-force free? Why we won't adapt this brute-force free approach?)
+> Understand several methods of symmetric key cryptography, public key cryptography on a high (math-free) level. Focus on the pros & cons of each method. (ex. Why this mechanism is brute-force free? Why we won't adapt this brute-force free approach?)
+
+Definition:
+
+> *   symmetric key: same key is used for encryption & decryption.
+>     
+> *   asymmetric (opposite of symmetric): separate keys for encryption & decryption.
+>     
+> *   public key: anyone with the public key can encrypt, only the holder of the private key can decrypt.
+>     
+
+| Name | asymmetric key? | public key? |
+| --- | --- | --- |
+| RSA | Yes | Yes |
+| Diffie-Hellman | No | Yes |
+| Elliptic Curve | Yes | Yes |
 
 RSA
-
-> One important characteristic here is that there are separate keys for encryption & decryption for RSA. -GeeksForGeeks website
 
 Diffie-Hellman (not mentioned in the lecture)
 
