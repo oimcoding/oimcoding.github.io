@@ -1,11 +1,22 @@
 
 ### **SU-CPSC 5710 25FQ Notes**
 
-Canvas Link: [Granted access is needed for visiting this site](https://seattleu.instructure.com/courses/1623416)
+[Canvas Link](https://seattleu.instructure.com/courses/1623416)
 
 ![Person holding a humorous IT sticker outdoors, perfect for tech enthusiasts.](https://images.pexels.com/photos/11035465/pexels-photo-11035465.jpeg)
 
+
 ***
+**Lecture 1: Intro**
+> Understand basic terms and CIA Triad.
+>
+C (Confidentially) -I (Integrity) -A (Avaliability)  
+Vulnerability, threat, attack, control
+
+
+***
+**Lecture 2: Authentication, Access Control**
+
 
 **Exercise 1: Access Control**
 
@@ -32,6 +43,7 @@ Canvas Link: [Granted access is needed for visiting this site](https://seattleu.
             \- chomd new\_octal\_notation file/folder\_name
             
             \- chomd u/g/o + r/w/x file/folder\_name
+            \- chomd u/g/o - r/w/x file/folder\_name (SPACE IS IMPORTANT)
             
         *   chgrp: change file/folder ownership to new group (chgrp new\_group file/folder)
             
@@ -85,6 +97,7 @@ Public key encryption scheme:
 [![Elliptic Curves - Computerphile](https://i.ytimg.com/vi/NF1pwjL9-DE/hqdefault.jpg)](https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PLzH6n4zXuckpoaxDKOOV26yhgoY2S-xYg&index=4)
 
 **Questions:**
+*  _Why does simple encryption scheme/symmetric key not secure?_
 
 *   _How does RSA work?_
     
