@@ -91,10 +91,8 @@ Public key encryption scheme:
     
     > In Diffie-hellman, a secret key isn't shared. Instead, a set of public values is used. The public values are then combined with private, hidden variables to create an identical shared key.
     
-    > "What the mathematics behind Diffie-Hellman does, is allow the protocol to send messages where you can't extract this (which mixed in the shared public value) private variable and that's exactly what elliptic curves do, they just do in a slightly different way." - Dr Mike Pound in the Computerphile video
-    
+    > "What the mathematics behind Diffie-Hellman does, is allow the protocol to send messages where you can't extract this (which mixed in the shared public value) private variable and that's exactly what elliptic curves do, they just do in a slightly different way." - [Dr Mike Pound in the Computerphile video](https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PLzH6n4zXuckpoaxDKOOV26yhgoY2S-xYg&index=4)
 
-[![Elliptic Curves - Computerphile](https://i.ytimg.com/vi/NF1pwjL9-DE/hqdefault.jpg)](https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PLzH6n4zXuckpoaxDKOOV26yhgoY2S-xYg&index=4)
 
 **Questions:**
 *  _Why does simple encryption scheme/symmetric key not secure?_
@@ -108,3 +106,67 @@ Public key encryption scheme:
 *   _Why does Elliptic Curve more efficient (than RSA)?_
     
 *   _RSA in practice: session keys_
+
+**Quick summaries (from ChatGPT)**
+
+Below are short, non-mathematical summaries and simple diagrams for each topic from Lecture 3. Marked "from ChatGPT" so you know the source.
+
+- Substitution & Transposition
+
+    What: simple letter/position transforms (Caesar, substitution, columnar transposition).
+
+    Diagram (very simple):
+
+    Plain:  HELLO WORLD
+    Subst:  IFMMP XPSME   (each letter shifted)
+    Transp: HLOEL OLWRD   (columns read differently)
+
+    Attacker: frequency analysis, word patterns, known-plaintext.
+
+- Block Ciphers 
+
+    What: encrypt fixed-size blocks independently. Keys are the mappings in the table.
+
+    Diagram (conceptual):
+
+    [plaintext block] --(key)--> [cipher block]
+
+    Attacker: brute-force (if key small), (key won't be big b/c it will comes with a huge table).  
+
+- DES (from ChatGPT)
+
+    What: older symmetric ciphers and modes. DES has short keys (56 bits)
+
+    Attacker: DES — brute force.
+
+
+- AES (from ChatGPT)
+
+    What: modern standard block cipher (128/192/256-bit keys).
+
+    Attacker: no practical cryptanalytic break for correct AES; main risks are side-channel leaks, weak keys, or bad modes.
+    Practical outcome: secure and recommended when used with AEAD modes (GCM/CCM) and good randomness.
+
+- RSA (from ChatGPT)
+
+    What: public-key system based on multiplying large primes. Public key encrypts; private key decrypts.
+
+    Diagram (conceptual):
+
+    Sender: message --(encrypt with recipient's public key)--> ciphertext --> Recipient: decrypt with private key
+
+    Attacker: factor the large modulus to recover the private key; exploit poor padding or small exponents; side-channel attacks.
+    Practical outcome: secure with large keys (2048+) and modern padding; slow for bulk data — usually used to protect session keys.
+
+- Elliptic Curve (from ChatGPT)
+
+    What: public-key methods using elliptic curve point math; security from the difficulty of reversing scalar multiplication.
+
+    Diagram (conceptual):
+
+    P (base point) + k -> Q (public point), attacker sees P,Q but can't easily find k.
+
+    Attacker: generic discrete-log attacks (Pollard-rho), weak curves, and implementation side-channels.
+    Practical outcome: very strong for smaller key sizes; efficient on constrained devices; choose well-known secure curves.
+
+-- End of ChatGPT summaries --
