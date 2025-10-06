@@ -1,10 +1,5 @@
 
-### **SU-CPSC 5710 25FQ Notes**
-
-[Canvas Link](https://seattleu.instructure.com/courses/1623416)
-
-![Person holding a humorous IT sticker outdoors, perfect for tech enthusiasts.](https://images.pexels.com/photos/11035465/pexels-photo-11035465.jpeg)
-
+### **SU-CPSC 5710 25FQ Notes** [Canvas Link](https://seattleu.instructure.com/courses/1623416)
 
 ***
 **Lecture 1: Intro**
@@ -109,7 +104,7 @@ Public key encryption scheme:
 
 **Quick summaries (from ChatGPT)**
 
-Below are short, non-mathematical summaries and simple diagrams for each topic from Lecture 3. Marked "from ChatGPT" so you know the source.
+>Below are short, non-mathematical summaries and simple diagrams for each topic from Lecture 3. 
 
 - Substitution & Transposition
 
@@ -117,9 +112,9 @@ Below are short, non-mathematical summaries and simple diagrams for each topic f
 
     Diagram (very simple):
 
-    Plain:  HELLO WORLD
-    Subst:  IFMMP XPSME   (each letter shifted)
-    Transp: HLOEL OLWRD   (columns read differently)
+    Plain:  HELLO WORLD  
+    Subst:  IFMMP XPSME   (each letter shifted)  
+    Transp: HLOEL OLWRD   (columns read differently)  
 
     Attacker: frequency analysis, word patterns, known-plaintext.
 
@@ -133,20 +128,26 @@ Below are short, non-mathematical summaries and simple diagrams for each topic f
 
     Attacker: brute-force (if key small), (key won't be big b/c it will comes with a huge table).  
 
-- DES (from ChatGPT)
+- DES / DES-CBC (Chained DES with HEAD)
 
-    What: older symmetric ciphers and modes. DES has short keys (56 bits)
+    What: older symmetric ciphers and modes. DES has short keys (56 bits + 8 bits not for encryption).  
+    Lots for shuffle around, doesn't make the message larger.  
+    
+    Attacker: DES — brute force the 56-bit keys.
+     
+    DES‑CBC attack types:
+    Brute force, padding‑oracle: if an application reveals whether padding was correct during decryption, an attacker can recover plaintext block‑by‑block.  
+    IV misuse: reusing the same IV for multiple messages or using a predictable IV leaks relationships between plaintexts (first‑block XOR patterns).  
+    If you still used DES‑CBC, you’d be exposed to both the weak key size and the above practical attacks. CBC can be safe only when used with a strong block cipher, a fresh random IV per message, and authenticated encryption (or a separate MAC).
 
-    Attacker: DES — brute force.
-
-- AES (from ChatGPT)
+- AES 
 
     What: modern standard block cipher (128/192/256-bit keys).
 
     Attacker: no practical cryptanalytic break for correct AES; main risks are side-channel leaks, weak keys, or bad modes.
     Practical outcome: secure and recommended when used with AEAD modes (GCM/CCM) and good randomness.
 
-- RSA (from ChatGPT)
+- RSA 
 
     What: public-key system based on multiplying large primes. Public key encrypts; private key decrypts.
 
@@ -157,7 +158,7 @@ Below are short, non-mathematical summaries and simple diagrams for each topic f
     Attacker: factor the large modulus to recover the private key; exploit poor padding or small exponents; side-channel attacks.
     Practical outcome: secure with large keys (2048+) and modern padding; slow for bulk data — usually used to protect session keys.
 
-- Elliptic Curve (from ChatGPT)
+- Elliptic Curve 
 
     What: public-key methods using elliptic curve point math; security from the difficulty of reversing scalar multiplication.
 
