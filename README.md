@@ -42,7 +42,7 @@ Vulnerability, threat, attack, control
             
             \- chomd new\_octal\_notation file/folder\_name
             
-            \- chomd u/g/o + r/w/x file/folder\_name
+            \- chomd u/g/o + r/w/x file/folder\_name  
             \- chomd u/g/o - r/w/x file/folder\_name (SPACE IS IMPORTANT)
             
         *   chgrp: change file/folder ownership to new group (chgrp new\_group file/folder)
@@ -62,10 +62,10 @@ Vulnerability, threat, attack, control
 
 Definition:
 
-> *   symmetric key: same key is used for encryption & decryption.
->     
-> *   asymmetric/public key (opposite of symmetric): separate keys for encryption & decryption. Anyone with the public key can encrypt, only the holder of the private key can decrypt.
->     
+ *   symmetric key: same key is used for encryption & decryption.
+     
+ *   asymmetric/public key (opposite of symmetric): separate keys for encryption & decryption. Anyone with the public key can encrypt, only the holder of the private key can decrypt.
+     
 
 Simple encryption scheme:
 
@@ -138,7 +138,6 @@ Below are short, non-mathematical summaries and simple diagrams for each topic f
     What: older symmetric ciphers and modes. DES has short keys (56 bits)
 
     Attacker: DES — brute force.
-
 
 - AES (from ChatGPT)
 
