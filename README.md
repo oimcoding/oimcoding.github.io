@@ -1,7 +1,6 @@
 
 ### **SU-CPSC 5710 25FQ Notes** [Canvas Link](https://seattleu.instructure.com/courses/1623416)
 
-***
 **Lecture 1: Intro**
 > Understand basic terms and CIA Triad.
 >
@@ -160,7 +159,7 @@ Public key encryption scheme:
 
 - Elliptic Curve 
 
-    What: public-key methods using elliptic curve point math; security from the difficulty of reversing scalar multiplication.
+    What: public-key methods using elliptic curve point math; security from the difficulty of reversing scalar multiplication. 
 
     Diagram (conceptual):
 
