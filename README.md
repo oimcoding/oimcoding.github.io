@@ -120,4 +120,3 @@
 **Write Summaries:**
 - One paragraph per sin
 - Include: definition, exploitation method, prevention, real-world impact
----
