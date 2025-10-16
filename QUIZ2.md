@@ -71,10 +71,10 @@ When you write beyond the buffer's boundary, you overwrite adjacent memory. The 
 
 **Step 3: Craft the Injection Payload**
 - Suppose the vulnerable code is: `system("echo " + input)`
-- Your malicious input: `test; echo 'you\'re hacked' > /tmp/hacked.txt;`
+- Your malicious input: `main.cpp; echo 'you\'re hacked' > hacked.txt; cat hacked.txt`
 - The actual command executed becomes:
   ```
-  echo test; echo 'you're hacked' > /tmp/hacked.txt;
+  echo test; echo 'you're hacked' > hacked.txt;
   ```
 
 **Step 4: Execute the Attack**
