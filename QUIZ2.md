@@ -83,7 +83,7 @@ When you write beyond the buffer's boundary, you overwrite adjacent memory. The 
 - Your injected command then executes with the program's privileges
 
 **Step 5: Verify Success**
-- Check if the file was created: `ls -la /tmp/hacked.txt` or wherever you specified
+- Check if the file was created: `cat hacked.txt` or wherever you specified
 - Read the file contents to confirm the data was written
 
 ### WHY This Works:
