@@ -1,0 +1,11 @@
+#### weekend of Oct. 17-19
+- GRADING
+- Fill up reserch initiation form
+- Fill up [CITI training & OneAegis](https://www.seattleu.edu/institutional-review-board-and-office-of-research-oversight/)
+- Find a presentation topic (AI INJECTION + WHAT DEMO I CAN DO)
+- SEND OUT MORE APPLICATION
+- LEETCODE
+- HACKER RANK
+
+***typical for Friday OCT 17***
+- [MOCK INTERVIEW](https://leetcode.com/problems/4sum/description/)
