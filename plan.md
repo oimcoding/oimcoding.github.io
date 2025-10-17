@@ -6,6 +6,7 @@
 - SEND OUT MORE APPLICATION
 - LEETCODE
 - HACKER RANK
+- host school project on AWS?
 
 ***typical for Friday OCT 17***
 - [MOCK INTERVIEW](https://leetcode.com/problems/4sum/description/)
