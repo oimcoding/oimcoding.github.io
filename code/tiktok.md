@@ -1,482 +1,192 @@
 # TikTok LeetCode Problems - Outline by Pattern
 
-## Sliding Window (7 problems)
+## Sliding Window (5 problems)
 
-### 1. Longest Substring Without Repeating Characters - Medium
-- Find length of longest substring without repeating characters
-
-### 14. Minimum Window Substring - Hard
-- Find minimum window substring containing all characters from target string
-
-### 76. Minimum Window Substring - Hard
-- Return minimum window substring of s containing all characters in t
-
-### 394. Decode String - Medium
-- Decode string with pattern k[encoded_string]
-
-### 560. Subarray Sum Equals K - Medium
-- Count subarrays with sum equal to k
-
-### 68. Count the Number of Good Subarrays - Medium
-- Count good subarrays based on pair condition
-
-### 974. Subarray Sums Divisible by K - Medium
-- Count subarrays with sum divisible by k
+1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium
+2. [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) - Hard
+3. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - Medium
+4. [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) - Medium
+5. [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) - Medium
 
 ---
 
-## Two Pointers (8 problems)
+## Two Pointers (6 problems)
 
-### 11. Container With Most Water - Medium
-- Find two lines that form container with most water
-
-### 15. 3Sum - Medium
-- Find all triplets that sum to zero
-
-### 19. 3Sum - Medium
-- Return all triplets [nums[i], nums[j], nums[k]] such that sum is zero
-
-### 22. Search in Rotated Sorted Array - Medium
-- Search target in rotated sorted array
-
-### 33. Search in Rotated Sorted Array - Medium
-- Find target value in rotated sorted array
-
-### 165. Compare Version Numbers - Medium
-- Compare two version numbers
-
-### 189. Rotate Array - Medium
-- Rotate array to the right by k steps
-
-### 678. Valid Parenthesis String - Medium
-- Check if string with '(', ')' and '*' is valid
+6. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
+7. [15. 3Sum](https://leetcode.com/problems/3sum/) - Medium
+8. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Medium
+9. [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) - Medium
+10. [189. Rotate Array](https://leetcode.com/problems/rotate-array/) - Medium
+11. [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) - Medium
 
 ---
 
-## Depth-First Search (DFS) (12 problems)
+## Depth-First Search (DFS) (9 problems)
 
-### 4. Number of Islands - Medium
-- Count number of islands in grid
-
-### 8. Word Search - Medium
-- Find if word exists in character grid
-
-### 18. Number of Distinct Islands - Medium
-- Count distinct islands in grid
-
-### 39. Recover Binary Search Tree - Medium
-- Recover BST with two swapped elements
-
-### 44. Word Ladder - Hard
-- Find shortest transformation sequence from beginWord to endWord
-
-### 58. Evaluate Division - Medium
-- Evaluate division queries using equations
-
-### 62. Making A Large Island - Hard
-- Find largest island after changing one 0 to 1
-
-### 63. Possible Bipartition - Medium
-- Check if people can be split into two groups based on dislikes
-
-### 64. Shortest Bridge - Medium
-- Find minimum 0s to flip to connect two islands
-
-### 79. Word Search - Medium
-- Search for word in board
-
-### 99. Recover Binary Search Tree - Medium
-- Fix BST with two swapped nodes
-
-### 200. Number of Islands - Medium
-- Count islands in binary grid
+12. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) - Medium
+13. [79. Word Search](https://leetcode.com/problems/word-search/) - Medium
+14. [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) - Medium *(Premium)*
+15. [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) - Medium
+16. [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Hard
+17. [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) - Medium
+18. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) - Hard
+19. [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) - Medium
+20. [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) - Medium
 
 ---
 
-## Backtracking (5 problems)
+## Backtracking (3 problems)
 
-### 8. Word Search - Medium
-- Find word in grid using backtracking
-
-### 21. Generate Parentheses - Medium
-- Generate all combinations of well-formed parentheses
-
-### 36. Permutations II - Medium
-- Generate unique permutations with duplicates
-
-### 53. Word Search II - Hard
-- Find all words from word list in board
-
-### 79. Word Search - Medium
-- Check if word exists in grid
+21. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - Medium
+22. [47. Permutations II](https://leetcode.com/problems/permutations-ii/) - Medium
+23. [212. Word Search II](https://leetcode.com/problems/word-search-ii/) - Hard
 
 ---
 
 ## Dynamic Programming (DP) (11 problems)
 
-### 16. Coin Change - Medium
-- Find minimum coins needed for amount
-
-### 25. Edit Distance - Medium
-- Find minimum operations to convert word1 to word2
-
-### 27. Longest Increasing Subsequence - Medium
-- Find length of longest strictly increasing subsequence
-
-### 29. Super Egg Drop - Hard
-- Find minimum moves to determine critical floor with k eggs
-
-### 32. Longest Valid Parentheses - Hard
-- Find length of longest valid parentheses substring
-
-### 33. Longest Palindromic Substring - Medium
-- Return longest palindromic substring
-
-### 38. Climbing Stairs - Easy
-- Count ways to climb n stairs (1 or 2 steps at a time)
-
-### 42. Best Time to Buy and Sell Stock III - Hard
-- Find max profit with at most two transactions
-
-### 45. Word Break - Medium
-- Check if string can be segmented into dictionary words
-
-### 70. Climbing Stairs - Easy
-- Find distinct ways to climb staircase
-
-### 322. Coin Change - Medium
-- Minimum coins to make amount
+24. [322. Coin Change](https://leetcode.com/problems/coin-change/) - Medium
+25. [72. Edit Distance](https://leetcode.com/problems/edit-distance/) - Medium
+26. [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Medium
+27. [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) - Hard
+28. [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) - Hard
+29. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - Medium
+30. [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Easy
+31. [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) - Hard
+32. [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Hard
+33. [139. Word Break](https://leetcode.com/problems/word-break/) - Medium
+34. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Medium
 
 ---
 
-## Stack (10 problems)
+## Stack (6 problems)
 
-### 20. Valid Parentheses - Easy
-- Check if string of brackets is valid
-
-### 24. Simplify Path - Medium
-- Simplify Unix-style file path
-
-### 34. Longest Valid Parentheses - Hard
-- Find longest valid parentheses substring length
-
-### 54. Basic Calculator - Hard
-- Evaluate expression with +, -, (, )
-
-### 57. Decode String - Medium
-- Decode string with k[encoded_string] pattern
-
-### 60. Asteroid Collision - Medium
-- Determine state after asteroid collisions
-
-### 61. Basic Calculator III - Hard
-- Evaluate expression with +, -, *, /, (, )
-
-### 71. Simplify Path - Medium
-- Simplify absolute file system path
-
-### 224. Basic Calculator - Hard
-- Implement calculator for simple expressions
-
-### 772. Basic Calculator III - Hard
-- Calculator with all operations and parentheses
+35. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Easy
+36. [71. Simplify Path](https://leetcode.com/problems/simplify-path/) - Medium
+37. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) - Hard
+38. [394. Decode String](https://leetcode.com/problems/decode-string/) - Medium
+39. [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) - Medium
+40. [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) - Hard *(Premium)*
 
 ---
 
-## Heap (Priority Queue) (6 problems)
+## Heap (Priority Queue) (4 problems)
 
-### 5. Top K Frequent Elements - Medium
-- Return k most frequent elements
-
-### 7. Merge k Sorted Lists - Hard
-- Merge k sorted linked lists
-
-### 9. Meeting Rooms II - Medium
-- Find minimum conference rooms required
-
-### 23. Merge k Sorted Lists - Hard
-- Merge k sorted lists into one
-
-### 67. Meeting Rooms III - Hard
-- Find room that held most meetings
-
-### 347. Top K Frequent Elements - Medium
-- Find k most frequent elements in array
+41. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Medium
+42. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - Hard
+43. [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) - Medium *(Premium)*
+44. [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) - Hard
 
 ---
 
-## Binary Search (6 problems)
+## Binary Search (3 problems)
 
-### 22. Search in Rotated Sorted Array - Medium
-- Find target in rotated array
-
-### 23. Sqrt(x) - Easy
-- Compute square root of x
-
-### 29. Super Egg Drop - Hard
-- Egg drop problem with k eggs and n floors
-
-### 33. Search in Rotated Sorted Array - Medium
-- Search in rotated sorted array
-
-### 47. Find Minimum in Rotated Sorted Array - Medium
-- Find minimum element in rotated sorted array
-
-### 69. Sqrt(x) - Easy
-- Return integer square root
+45. [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) - Easy
+46. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Medium
+47. [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) - Hard
 
 ---
 
-## Hash Map / Hash Set (10 problems)
+## Hash Map / Hash Set (4 problems)
 
-### 3. Longest Substring Without Repeating Characters - Medium
-- Use hash set for tracking characters
-
-### 5. Top K Frequent Elements - Medium
-- Count frequencies with hash map
-
-### 10. Subarray Sum Equals K - Medium
-- Use prefix sum with hash map
-
-### 26. Longest Consecutive Sequence - Medium
-- Find longest consecutive sequence using hash set
-
-### 37. Group Anagrams - Medium
-- Group anagrams using hash map
-
-### 49. Group Anagrams - Medium
-- Group strings that are anagrams
-
-### 128. Longest Consecutive Sequence - Medium
-- Find longest consecutive elements sequence
-
-### 146. LRU Cache - Medium
-- Implement LRU cache with hash map
-
-### 560. Subarray Sum Equals K - Medium
-- Count subarrays with sum k using hash map
-
-### 65. Subarray Sums Divisible by K - Medium
-- Use hash map to count remainders
+48. [146. LRU Cache](https://leetcode.com/problems/lru-cache/) - Medium
+49. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Medium
+50. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - Medium *(Already listed in Sliding Window)*
+51. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - Medium *(Already listed in DP)*
 
 ---
 
-## Graph Algorithms (6 problems)
+## Graph Algorithms (4 problems)
 
-### 51. Course Schedule - Medium
-- Topological sort / cycle detection
-
-### 52. Course Schedule II - Medium
-- Return course order using topological sort
-
-### 58. Evaluate Division - Medium
-- Graph with weighted edges for division
-
-### 63. Possible Bipartition - Medium
-- Graph coloring / bipartite check
-
-### 207. Course Schedule - Medium
-- Detect cycle in directed graph
-
-### 210. Course Schedule II - Medium
-- Find valid course ordering
+52. [207. Course Schedule](https://leetcode.com/problems/course-schedule/) - Medium
+53. [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - Medium
+54. [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - Hard
+55. [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) - Medium *(Already listed in DFS)*
 
 ---
 
-## String Manipulation (8 problems)
+## String Manipulation (6 problems)
 
-### 2. Text Justification - Hard
-- Format text with full justification
-
-### 35. Multiply Strings - Medium
-- Multiply two numbers represented as strings
-
-### 43. Multiply Strings - Medium
-- Multiply large numbers as strings
-
-### 46. Reverse Words in a String - Medium
-- Reverse order of words
-
-### 49. Largest Number - Medium
-- Arrange numbers to form largest number
-
-### 55. Encode and Decode Strings - Medium
-- Design encoding/decoding algorithm
-
-### 56. Remove Duplicate Letters - Medium
-- Remove duplicates keeping lexicographically smallest
-
-### 151. Reverse Words in a String - Medium
-- Reverse word order in string
+56. [68. Text Justification](https://leetcode.com/problems/text-justification/) - Hard
+57. [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) - Medium
+58. [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) - Medium
+59. [179. Largest Number](https://leetcode.com/problems/largest-number/) - Medium
+60. [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) - Medium *(Premium)*
+61. [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) - Medium
 
 ---
 
-## Sorting & Greedy (5 problems)
+## Sorting & Greedy (1 problem)
 
-### 13. Merge Intervals - Medium
-- Merge overlapping intervals
-
-### 49. Largest Number - Medium
-- Sort with custom comparator
-
-### 56. Merge Intervals - Medium
-- Merge all overlapping intervals
-
-### 68. Text Justification - Hard
-- Greedy text formatting
-
-### 179. Largest Number - Medium
-- Custom sort to form largest number
+62. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - Medium
 
 ---
 
-## Tree Traversal (7 problems)
+## Tree Traversal (3 problems)
 
-### 15. Serialize and Deserialize Binary Tree - Hard
-- Convert tree to/from string
-
-### 39. Recover Binary Search Tree - Medium
-- In-order traversal to find swapped nodes
-
-### 40. Construct Binary Tree from Preorder and Inorder - Medium
-- Build tree from traversals
-
-### 41. Path Sum II - Medium
-- Find all root-to-leaf paths with target sum
-
-### 43. Binary Tree Maximum Path Sum - Hard
-- Find maximum path sum in tree
-
-### 59. Convert BST to Sorted Doubly Linked List - Medium
-- In-order traversal with pointer manipulation
-
-### 105. Construct Binary Tree from Preorder and Inorder Traversal - Medium
-- Reconstruct tree from traversals
+63. [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) - Medium
+64. [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) - Medium
+65. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) - Medium *(Premium)*
 
 ---
 
-## Design / Data Structure (5 problems)
+## Design / Data Structure (2 problems)
 
-### 3. LRU Cache - Medium
-- Design LRU cache
-
-### 11. Design HashMap - Easy
-- Implement hash map from scratch
-
-### 31. Design Memory Allocator - Medium
-- Design memory allocation system
-
-### 146. LRU Cache - Medium
-- Implement Least Recently Used cache
-
-### 706. Design HashMap - Easy
-- Design hash map without built-in libraries
+66. [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) - Easy
+67. [2502. Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) - Medium
 
 ---
 
-## Array Manipulation (8 problems)
+## Array Manipulation (4 problems)
 
-### 6. Brightest Position on Street - Medium
-- Line sweep algorithm
-
-### 28. Shortest Unsorted Continuous Subarray - Medium
-- Find shortest subarray to sort
-
-### 30. Regions Cut By Slashes - Medium
-- Union find for grid regions
-
-### 32. Minimum Operations to Write Y - Medium
-- Count operations for grid pattern
-
-### 189. Rotate Array - Medium
-- Rotate array in place
-
-### 581. Shortest Unsorted Continuous Subarray - Medium
-- Find unsorted subarray
-
-### 959. Regions Cut By Slashes - Medium
-- Count regions in grid
-
-### 3071. Minimum Operations to Write the Letter Y on a Grid - Medium
-- Grid manipulation
-
----
-
-## Math & Simulation (3 problems)
-
-### 35. Multiply Strings - Medium
-- String multiplication simulation
-
-### 43. Multiply Strings - Medium
-- Simulate multiplication
-
-### 69. Sqrt(x) - Easy
-- Integer square root
-
----
-
-## Trie (1 problem)
-
-### 53. Word Search II - Hard
-- Use trie for efficient word search
-
----
-
-## Union Find (2 problems)
-
-### 30. Regions Cut By Slashes - Medium
-- Union find for connected components
-
-### 959. Regions Cut By Slashes - Medium
-- Disjoint set union
-
----
-
-## Advanced Search (2 problems)
-
-### 66. Longest Duplicate Substring - Hard
-- Binary search + rolling hash (Rabin-Karp)
-
-### 1044. Longest Duplicate Substring - Hard
-- Binary search on answer with hashing
+68. [2021. Brightest Position on Street](https://leetcode.com/problems/brightest-position-on-street/) - Medium *(Premium)*
+69. [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) - Medium
+70. [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) - Medium
+71. [3071. Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) - Medium
 
 ---
 
 ## Additional Problem (Custom)
 
-### 69. Maximum Square Area in Buildings - Medium
-- Given array of building heights, find maximum area of square that can fit
-- Pattern: Stack / Monotonic Stack
-- Similar to: Largest Rectangle in Histogram
+72. **Maximum Square Area in Buildings** - Medium
+    - Given array of building heights, find maximum area of square that can fit
+    - Pattern: Stack / Monotonic Stack
+    - Similar to: [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ---
 
 ## Summary Statistics
 
-- **Total Problems:** 69
-- **Easy:** 4 problems
-- **Medium:** 52 problems  
+- **Total Problems:** 69 unique LeetCode problems + 1 custom problem = 70 total
+- **Easy:** 3 problems
+- **Medium:** 54 problems  
 - **Hard:** 13 problems
+- **Premium Problems:** 5 (marked with *Premium*)
 
 ### Pattern Distribution:
-- DFS/BFS: 12 problems
+- DFS/BFS: 9 problems
 - Dynamic Programming: 11 problems
-- Hash Map/Set: 10 problems
-- Stack: 10 problems
-- String Manipulation: 8 problems
-- Array Manipulation: 8 problems
-- Two Pointers: 8 problems
-- Sliding Window: 7 problems
-- Tree Traversal: 7 problems
-- Heap: 6 problems
-- Binary Search: 6 problems
-- Graph: 6 problems
-- Design: 5 problems
-- Sorting/Greedy: 5 problems
-- Backtracking: 5 problems
-- Math: 3 problems
-- Union Find: 2 problems
-- Trie: 1 problem
-- Advanced Search: 2 problems
+- Sliding Window: 5 problems
+- Two Pointers: 6 problems
+- Stack: 6 problems
+- Heap: 4 problems
+- Binary Search: 3 problems
+- Hash Map/Set: 4 problems (some overlap with other categories)
+- Graph: 4 problems
+- String Manipulation: 6 problems
+- Backtracking: 3 problems
+- Tree Traversal: 3 problems
+- Design: 2 problems
+- Array Manipulation: 4 problems
+- Sorting/Greedy: 1 problem
+- Custom: 1 problem
+
+### Premium Problems List:
+1. [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)
+2. [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+3. [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+4. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
+5. [2021. Brightest Position on Street](https://leetcode.com/problems/brightest-position-on-street/)
+6. [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)
 
 Good luck with your TikTok OA! 🚀
