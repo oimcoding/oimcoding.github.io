@@ -1,3 +1,5 @@
+***2 sum***
+***3 sum***
 ***4 sum***
 - quadruplet is exsit for sure
 - same element can't repeat in the result list

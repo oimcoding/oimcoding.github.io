@@ -1,5 +1,3 @@
-# TikTok LeetCode Problems - Outline by Pattern
-
 ## Sliding Window (5 problems)
 
 1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium
@@ -153,34 +151,6 @@
     - Pattern: Stack / Monotonic Stack
     - Similar to: [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
----
-
-## Summary Statistics
-
-- **Total Problems:** 69 unique LeetCode problems + 1 custom problem = 70 total
-- **Easy:** 3 problems
-- **Medium:** 54 problems  
-- **Hard:** 13 problems
-- **Premium Problems:** 5 (marked with *Premium*)
-
-### Pattern Distribution:
-- DFS/BFS: 9 problems
-- Dynamic Programming: 11 problems
-- Sliding Window: 5 problems
-- Two Pointers: 6 problems
-- Stack: 6 problems
-- Heap: 4 problems
-- Binary Search: 3 problems
-- Hash Map/Set: 4 problems (some overlap with other categories)
-- Graph: 4 problems
-- String Manipulation: 6 problems
-- Backtracking: 3 problems
-- Tree Traversal: 3 problems
-- Design: 2 problems
-- Array Manipulation: 4 problems
-- Sorting/Greedy: 1 problem
-- Custom: 1 problem
-
 ### Premium Problems List:
 1. [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)
 2. [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
@@ -188,5 +158,3 @@
 4. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
 5. [2021. Brightest Position on Street](https://leetcode.com/problems/brightest-position-on-street/)
 6. [772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)
-
-Good luck with your TikTok OA! 🚀
