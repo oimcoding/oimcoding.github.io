@@ -23,11 +23,11 @@ Using survey data from the RAND American Educator Panels, the authors examine th
 
 ### Link
 
-https://www.rand.org/pubs/research_reports/RRA134-25.html
+[RAND Report](https://www.rand.org/pubs/research_reports/RRA134-25.html)
 
-Full PDF: https://www.rand.org/content/dam/rand/pubs/research_reports/RRA100/RRA134-25/RAND_RRA134-25.pdf
+[Full PDF](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA100/RRA134-25/RAND_RRA134-25.pdf)
 
-ERIC: https://eric.ed.gov/?id=ED672957
+[ERIC](https://eric.ed.gov/?id=ED672957)
 
 ### Reason for Selection
 
@@ -53,9 +53,9 @@ Generative artificial intelligence (AI) has been embraced by educators and stude
 
 ### Link
 
-https://www.tandfonline.com/doi/full/10.1080/15391523.2025.2476589
+[Journal Article](https://www.tandfonline.com/doi/full/10.1080/15391523.2025.2476589)
 
-DOI: https://doi.org/10.1080/15391523.2025.2476589
+[DOI](https://doi.org/10.1080/15391523.2025.2476589)
 
 ### Reason for Selection
 
@@ -83,9 +83,9 @@ The increasing integration of Artificial Intelligence (AI) in educational settin
 
 ### Link
 
-https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1002/rev3.70101
+[Review of Education](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1002/rev3.70101)
 
-DOI: https://doi.org/10.1002/rev3.70101
+[DOI](https://doi.org/10.1002/rev3.70101)
 
 ### Reason for Selection
 
@@ -113,9 +113,9 @@ The study examined the rising importance of generative artificial intelligence (
 
 ### Link
 
-https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1643023/full
+[Frontiers in Education](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1643023/full)
 
-DOI: 10.3389/feduc.2025.1643023
+[DOI](https://doi.org/10.3389/feduc.2025.1643023)
 
 ### Reason for Selection
 
@@ -143,11 +143,11 @@ This systematic review, adhering to the PRISMA framework, investigated the utili
 
 ### Link
 
-https://onlinelibrary.wiley.com/doi/10.1111/ejed.12599
+[European Journal of Education](https://onlinelibrary.wiley.com/doi/10.1111/ejed.12599)
 
-DOI: https://doi.org/10.1111/ejed.12599
+[DOI](https://doi.org/10.1111/ejed.12599)
 
-ERIC: https://eric.ed.gov/?id=EJ1425253
+[ERIC](https://eric.ed.gov/?id=EJ1425253)
 
 ### Reason for Selection
 
@@ -175,9 +175,9 @@ This systematic literature review examined 53 peer-reviewed articles from 2020-2
 
 ### Link
 
-https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full
+[Frontiers in Education](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/full)
 
-DOI: https://doi.org/10.3389/feduc.2025.1565938
+[DOI](https://doi.org/10.3389/feduc.2025.1565938)
 
 ### Reason for Selection
 
@@ -203,7 +203,7 @@ Over 75% of educators have used AI both personally and professionally, and 94% b
 
 ### Link
 
-https://michiganvirtual.org/research/publications/ai-in-education-a-2025-snapshot-of-trust-use-and-emerging-practices/
+[Michigan Virtual Research Report](https://michiganvirtual.org/research/publications/ai-in-education-a-2025-snapshot-of-trust-use-and-emerging-practices/)
 
 ### Reason for Selection
 
@@ -231,9 +231,9 @@ The development of artificial intelligence (AI) has had a significant impact on 
 
 ### Link
 
-https://www.mdpi.com/2227-7102/15/9/1186
+[Education Sciences (MDPI)](https://www.mdpi.com/2227-7102/15/9/1186)
 
-DOI: https://doi.org/10.3390/educsci15091186
+[DOI](https://doi.org/10.3390/educsci15091186)
 
 ### Reason for Selection
 
@@ -259,11 +259,11 @@ This study investigated how privacy, algorithmic bias, and surveillance concerns
 
 ### Link
 
-https://rsisinternational.org/journals/ijriss/articles/the-influence-of-privacy-bias-and-surveillance-concerns-on-teachers-willingness-to-use-artificial-intelligence-in-education/
+[Journal Article](https://rsisinternational.org/journals/ijriss/articles/the-influence-of-privacy-bias-and-surveillance-concerns-on-teachers-willingness-to-use-artificial-intelligence-in-education/)
 
-DOI: https://dx.doi.org/10.47772/IJRISS.2025.903SEDU0240
+[DOI](https://dx.doi.org/10.47772/IJRISS.2025.903SEDU0240)
 
-PDF: https://rsisinternational.org/journals/ijriss/Digital-Library/volume-9-issue-3s/3192-3208.pdf
+[Full PDF](https://rsisinternational.org/journals/ijriss/Digital-Library/volume-9-issue-3s/3192-3208.pdf)
 
 ### Reason for Selection
 
@@ -291,7 +291,7 @@ The authors provide a snapshot of the prevalence of district support of teachers
 
 ### Link
 
-https://www.rand.org/pubs/research_reports/RRA956-31.html
+[RAND Report](https://www.rand.org/pubs/research_reports/RRA956-31.html)
 
 ### Reason for Selection
 
@@ -319,9 +319,9 @@ Despite its potential, there is limited empirical research on the use of AI in K
 
 ### Link
 
-https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1002/berj.4200
+[British Educational Research Journal](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1002/berj.4200)
 
-DOI: https://doi.org/10.1002/berj.4200
+[DOI](https://doi.org/10.1002/berj.4200)
 
 ### Reason for Selection
 
@@ -349,9 +349,9 @@ The paper presents results of a survey on the use of artificial intelligence (AI
 
 ### Link
 
-https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/5599169
+[Human Behavior and Emerging Technologies](https://onlinelibrary.wiley.com/doi/abs/10.1155/hbe2/5599169)
 
-DOI: https://doi.org/10.1155/hbe2/5599169
+[DOI](https://doi.org/10.1155/hbe2/5599169)
 
 ### Reason for Selection
 
