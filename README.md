@@ -52,6 +52,10 @@ Welcome to my computer science knowledge repository - a comprehensive collection
 ### Prompt Engineering
 - [Prompt Engineering Basics](/ai-ml/prompt-engineering-basics.md) - Introduction to effective prompting
 
+### Research & Literature Reviews
+- [AI Administrator Literature Review 2024-2026](/ai-ml/AI_Administrator_Literature_Review_2024-2026.md) - K-12 AI professional development, governance, and policy
+- [Dynamic Test Generation Literature Survey](/ai-ml/dynamic_test_generation_literature_survey.md) - AI benchmarking and adaptive test case generation
+
 ---
 
 ## 🔒 Networking & Security
