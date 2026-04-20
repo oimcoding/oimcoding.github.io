@@ -56,6 +56,10 @@ Welcome to my computer science knowledge repository - a comprehensive collection
 - [Tutorial: Hierarchical Bayesian Bandits (HierTS)](/ai-ml/tutorial_02_HierTS_hierarchical_bayesian.md) - Hierarchical Bayesian bandits, AISTATS 2022
 - [Tutorial: Adaptive Algorithms for Infinitely Many-Armed Bandits (OSE, PROSE)](/ai-ml/tutorial_01_OSE_infinitely_many_armed.md) - Unified framework for infinitely many-armed bandits
 
+### Papers
+- [Adaptive Algorithms for Infinitely Many-Armed Bandits (Pilliat, 2025)](/ai-ml/2510.27319v2.pdf) - OSE/PROSE unified framework paper
+- [Algorithms for Infinitely Many-Armed Bandits (NIPS 2008)](/ai-ml/NIPS-2008-algorithms-for-infinitely-many-armed-bandits-Paper.pdf) - Foundational paper on infinitely many-armed bandits
+
 ### Research & Literature Reviews
 - [AI Administrator Literature Review 2024-2026](/ai-ml/AI_Administrator_Literature_Review_2024-2026.md) - K-12 AI professional development, governance, and policy
 - [Dynamic Test Generation Literature Survey](/ai-ml/dynamic_test_generation_literature_survey.md) - AI benchmarking and adaptive test case generation
