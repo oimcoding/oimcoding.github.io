@@ -27,6 +27,7 @@ Welcome to my computer science knowledge repository - a comprehensive collection
 - [CPSC Midterm - Statistics & ML](/school/cpsc-midterm-stats-ml.md)
 
 ### Study & Writing Guides
+- [Conference Paper Guide](/conference_paper_guide.md) - How to write a conference paper, from idea to submission
 - [Essay Writing Guide](/school/essay-writing-guide.md)
 - [Essay Structure Guide](/school/essay-structure-guide.md)
 - [Essay Template - Tracking & Security](/school/essay-template-tracking-security.md)
